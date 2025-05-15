@@ -20,6 +20,8 @@ Telefon numarası
 
 Profil fotoğrafı
 
+Sürücüler için plaka numarası
+
 1.2. Konum Bilgileri
 Uygulama çalışırken cihazınızın gerçek zamanlı konum bilgisi
 
